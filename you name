@@ -1,0 +1,6 @@
+run = true
+print ("Ahoj")
+run = false
+Ahoj == input ("Ahoj")
+If "ahoj" == Ahoj 
+	print("Cs")
